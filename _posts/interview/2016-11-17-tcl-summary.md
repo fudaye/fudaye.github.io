@@ -2,7 +2,7 @@
 layout: post
 title: TCL Summary
 category: 面试
-tags: TCL,Interview
+tags: Interview
 keywords: TCL,Interview
 ---
 
