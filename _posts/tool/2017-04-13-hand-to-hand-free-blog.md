@@ -63,6 +63,15 @@ C:\Users\acer 一般在个人电脑这个目录下回发现已经clone下来的�
 1.再你clone的项目下找到CNAME这个文件，将它修改成你的域名地址
 2.在阿里云购买域名
 3.增加解析
+```
+---
+layout: post
+title: Airbnb Boggle Game
+category: 面试  (控制博客最左侧分类的类别)
+tags: Airbnb,Interview
+keywords: Airbnb,Interview,Boogle Game
+---
+```
 ![](http://upload-images.jianshu.io/upload_images/2021109-509077ff4133d0ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 前两个为固定ip地址，第三个为你的github博客地址。
 ### 第五步  找个可以编辑文字的工具，就可以记录你生活的点点滴滴啦。
