@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 赵福跃的博客
+email: zhaofuyue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  赵福跃的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://www.bestfudaye.com # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: FuYue Zhao
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,24 +14,20 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+github: fudaye
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://avatars2.githubusercontent.com/u/4359893?v=3&s=460
+favicon: https://avatars0.githubusercontent.com/u/4359893?v=3&s=40
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: fuyuezhao-zh
 
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: bestfudaye.com
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
