@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 手摸手教你搭建免费博客
+title: 手摸手教你通过github搭建免费博客
 category: 工具
-tags: 博客
-keywords: 博客
+tags: 工具
+description: 
 ---
 
 ### 背景
@@ -63,6 +63,12 @@ C:\Users\acer 一般在个人电脑这个目录下回发现已经clone下来的�
 1.再你clone的项目下找到CNAME这个文件，将它修改成你的域名地址
 2.在阿里云购买域名
 3.增加解析
+![](http://upload-images.jianshu.io/upload_images/2021109-509077ff4133d0ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+前两个为固定ip地址，第三个为你的github博客地址。
+### 第五步  找个可以编辑文字的工具，就可以记录你生活的点点滴滴啦。
+参考_posts中的目录结构自己创建适合自己的文章目录结构，简单解释一下：
+比如你建立了一篇博客，日期格式不要改变，后边的名字可以更改。
+2016-11-17-airbnb-boggle-game.md
 ```
 ---
 layout: post
@@ -72,14 +78,7 @@ tags: Airbnb,Interview
 keywords: Airbnb,Interview,Boogle Game
 ---
 ```
-![](http://upload-images.jianshu.io/upload_images/2021109-509077ff4133d0ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-前两个为固定ip地址，第三个为你的github博客地址。
-### 第五步  找个可以编辑文字的工具，就可以记录你生活的点点滴滴啦。
-参考_posts中的目录结构自己创建适合自己的文章目录结构，简单解释一下：
-比如你建立了一篇博客，日期格式不要改变，后边的名字可以更改。
-2016-11-17-airbnb-boggle-game.md
+以上是固定格式，每一篇博客必须要有！
 
 ### 最后
 人非圣贤孰能无过，有错误请各位爷及时提醒。
-
-
